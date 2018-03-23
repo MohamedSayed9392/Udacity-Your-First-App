@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Udacity - Your First App</string>
+    <string name="hours_of_operation_content">24 hours per day, 7 days per week</string>
+    <string name="hours_of_operation">Hours of operation</string>
+    <string name="description_content">Vodafone Egypt is the largest mobile phone company in Egypt in terms of active subscribers.It was launched in 1998 under its former name Click GSM. It covers various voice and data exchange services, as well as 4G,3G, ADSL and broadband Internet services. Vodafone Egypt was initially headquartered in Maadi, Cairo since 1998 and until 2003; when Vodafone moved its headquarters to the Sixth of October City. some of the key members of the core network launch team were: Neil Marley, Ian Crawford and Peter Karney. Currently, all of Vodafone\'s core operations are run from Vodafone\'s campus at the</string>
+    <string name="description">Description</string>
+    <string name="address_content">6th of October, Giza, Egypt</string>
+    <string name="address">Address</string>
+    <string name="contact_information_content">phone : 888</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="business_name">Business name</string>
+    <string name="business_name_content">Vodafone Egypt</string>
+</resources>
